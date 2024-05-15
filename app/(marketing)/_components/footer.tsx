@@ -9,7 +9,7 @@ export function Footer() {
                 <div className="flex gap-x-2 items-center justify-center">
                     <div>
                         <Image 
-                        src="/logo.svg"
+                        src="/images/logo.svg"
                         alt="Logo"
                         width={30}
                         height={30}

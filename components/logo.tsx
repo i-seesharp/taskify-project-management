@@ -7,7 +7,7 @@ export function Logo() {
             <div className="hover:opacity-75 transition
             items-center gap-x-2 hidden md:flex">
                 <Image
-                src="/logo.svg"
+                src="/images/logo.svg"
                 alt="Logo"
                 width={30}
                 height={30}
